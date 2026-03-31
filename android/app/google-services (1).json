@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611914897918",
+    "project_id": "strangr-shyne",
+    "storage_bucket": "strangr-shyne.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611914897918:android:eb45504b10866ff25188af",
+        "android_client_info": {
+          "package_name": "com.shyne.strangr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611914897918-qlba8vo3phmqpvm23cnldjn3hjguubbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyne.strangr_app",
+            "certificate_hash": "8ce710c413a3038cfd5db96adb53607bd19da3a5"
+          }
+        },
+        {
+          "client_id": "611914897918-o45ljl0utujeqvtosa7lt4uqvmg00v44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UcyzBaEuXkzbJHCNoi0LyPXHL1NDaek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611914897918-o45ljl0utujeqvtosa7lt4uqvmg00v44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
